@@ -1,6 +1,6 @@
 # Aprendizaje Automático, 2° cuatrimestre MCID
 
-Tareas y proyecto integral de la materia Aprendizaje Automático, Maestría en Ciencias e Ingeniería de Datos (MCID).
+Tareas y proyecto integral de la materia Aprendizaje Automático, Maestría en Ciencias e Ingeniería de Datos (MCID, FIC-UAT).
 
 ## Contenido
 
